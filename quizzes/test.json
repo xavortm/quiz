@@ -1,0 +1,14 @@
+{
+  "name": "Test quiz",
+  "description": "This is a test quiz",
+  "questions": [
+    {
+      "type": "open",
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "answerPhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/800px-Paris_-_Eiffelturm_und_Marsfeld2.jpg",
+      "category": "Geography",
+      "points": 10
+    }
+  ]
+}
