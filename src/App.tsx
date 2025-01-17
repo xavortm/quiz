@@ -1,6 +1,8 @@
+import Welcome from "./components/Welcome"
+
 function App() {
   return (
-    <p>test</p>
+    <Welcome />
   )
 }
 
